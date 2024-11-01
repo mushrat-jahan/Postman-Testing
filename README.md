@@ -13,6 +13,8 @@
 ## Output:
 <img width="346" alt="Screenshot_9" src="https://github.com/mushrat-jahan/dmoney-newman-testing-report-b10/assets/98585595/ca2c39b9-586b-4b97-8a03-dc0cb76d9d83">
 
+#### Test case, Bug Report, Acceptance Criteria
+https://drive.google.com/drive/folders/1CY1UWCKw6XLwB9QS9QjxmdI7TTDmQVvN?usp=sharing
 
 ## API Documentation
 https://documenter.getpostman.com/view/32589963/2sA2r535SG
